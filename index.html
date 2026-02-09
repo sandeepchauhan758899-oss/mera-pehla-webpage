@@ -27,12 +27,22 @@
             transition: 0.3s; 
         }
 
-        button:active { transform: scale(0.9); }
+        button:active { transform: scale(0.9); } .profile-pic {
+    width: 180px; 
+    height: 180px; 
+    border-radius: 50%; /* Isse photo gol ho jayegi */
+    border: 4px solid #00ff00; /* Green chamakdar border */
+    margin: 20px auto;
+    display: block;
+    object-fit: cover;
+    box-shadow: 0 0 20px #00ff00; /* Photo ke charo taraf glow */
+}
     </style>
     </head>
 <body>
 
     <h1>Namaste!</h1>
+    <img src="IMG_20230812_140201_062.jpg" alt="Suraj" class="profile-pic">
     <p>Hello mera naam suraj hai aur ye meri pahali website hai jaha main coding seekh raha hoon.</p>
     
     <button onclick="alert('Mubarak ho! Gyaan badh gaya!')">Click Karein</button>
