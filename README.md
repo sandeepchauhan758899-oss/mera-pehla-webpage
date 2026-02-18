@@ -10,7 +10,7 @@ Swagat hai! Ye meri pehli website hai jise maine HTML ka upyog karke banaya hai.
 
 ## 🚀 Live Link:
 Aap meri website ko yahan live dekh sakte hain:
-[https://sandeepchauhan758899-oss.github.io/mera-pehla-webpage/]
+(https://sandeepchauhan758899-oss.github.io/mera-pehla-webpage/)
 
 ## 🛠️ Technical Specification (CodSpec):
 * **Language:** HTML5
