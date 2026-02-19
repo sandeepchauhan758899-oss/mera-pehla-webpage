@@ -1,1 +1,113 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>सूर्य का तूफान और ऑरोरा की कहानी</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.8;
+            background-color: #050a14;
+            color: #ffffff;
+            margin: 0;
+            padding: 20px;
+        }
+        .article-container {
+            max-width: 900px;
+            margin: auto;
+            background: #101827;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
+        h1 {
+            color: #00ffcc;
+            text-align: center;
+            font-size: 2.5em;
+        }
+        h2 {
+            color: #ffcc00;
+            border-bottom: 2px solid #ffcc00;
+            margin-top: 30px;
+            padding-bottom: 5px;
+        }
+        p { font-size: 1.2em; text-align: justify; }
+        .image-box {
+            text-align: center;
+            margin: 30px 0;
+            padding: 15px;
+            background: #1f2937;
+            border-radius: 10px;
+        }
+        .image-box img {
+            max-width: 100%;
+            border-radius: 10px;
+            height: auto;
+        }
+        .caption {
+            display: block;
+            margin-top: 10px;
+            font-style: italic;
+            color: #00d4ff;
+        }
+        .back-btn {
+            background: #ff4757;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<div class="article-container">
+    <a href="index.html" class="back-btn">← होम पेज</a>
+
+    <h1>सूरज का महातूफान: CME और ऑरोरा</h1>
+
+    <h2>1. कोरोनल मास इजेक्शन (CME) क्या है?</h2>
+    <p>
+        सूरज की <strong>सतह (Surface)</strong> पर अक्सर बहुत बड़े धमाके होते हैं। जब सूरज की चुंबकीय ऊर्जा (Magnetic Energy) अचानक से मुक्त होती है, तो यह सूरज के बाहरी वायुमंडल यानी 'कोरोना' से अरबों टन गर्म प्लाज्मा और चुंबकीय कणों को अंतरिक्ष में फेंक देती है। इसी घटना को <strong>कोरोनल मास इजेक्शन (CME)</strong> कहा जाता है।
+    </p>
+    
+    <div class="image-box">
+        
+        <span class="caption">चित्र: सूरज की सतह से निकलता भयंकर प्लाज्मा का तूफान (CME)</span>
+    </div>
+
+    <p>
+        यह तूफान अंतरिक्ष में लाखों किलोमीटर प्रति घंटे की रफ्तार से यात्रा करता है। जब यह धमाका सूरज की सतह पर होता है, तो यह अपने साथ रेडियोधर्मी विकिरण और चार्ज्ड पार्टिकल्स लेकर आता है जो पृथ्वी की दिशा में भी आ सकते हैं।
+    </p>
+
+    <hr style="border: 0.5px solid #333; margin: 40px 0;">
+
+    <h2>2. ऑरोरा (Aurora): आसमान का कुदरती जादू</h2>
+    <p>
+        जब CME से निकले ये कण पृथ्वी के चुंबकीय क्षेत्र (Magnetic Aura) से टकराते हैं, तो पृथ्वी की ढाल इन्हें ध्रुवों (Poles) की तरफ मोड़ देती है। जब ये कण हमारे वायुमंडल की गैसों (जैसे ऑक्सीजन और नाइट्रोजन) से टकराते हैं, तो एक अद्भुत चमक पैदा होती है। इसे ही <strong>ऑरोरा (Aurora)</strong> कहते हैं।
+    </p>
+
+    <div class="image-box">
+        
+        <span class="caption">चित्र: पृथ्वी के ध्रुवों पर दिखने वाली खूबसूरत रोशनी (ऑरोरा)</span>
+    </div>
+
+    <p>
+        उत्तरी ध्रुव पर इसे 'ऑरोरा बोरेलिस' और दक्षिणी ध्रुव पर 'ऑरोरा ऑस्ट्रेलिस' कहा जाता है। ऑक्सीजन से टकराव पर <strong>हरा</strong> रंग और नाइट्रोजन से टकराव पर <strong>नीला या बैंगनी</strong> रंग दिखाई देता है।
+    </p>
+
+    <h2>निष्कर्ष</h2>
+    <p>
+        CME और ऑरोरा हमें दिखाते हैं कि सूरज की सतह पर होने वाली हलचल हमारी पृथ्वी को किस तरह प्रभावित करती है। यह विज्ञान और कला का एक अनोखा संगम है।
+    </p>
+
+    <div style="text-align: center; margin-top: 50px; color: #555;">
+        <p>© 2026 संदीप चौहान - भूगोल और विज्ञान ब्लॉग</p>
+    </div>
+</div>
+
+</body>
+</html>
 
